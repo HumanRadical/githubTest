@@ -65,10 +65,10 @@ My Top 5
 
 ```javascript
     function invite(name) {
-        console.log(`YO, ${name.toUpperCase()}, YOU WANNA COME OUT HERE!?`)
+        console.log(`YO, ${name.toUpperCase()}, YOU WANNA COME OUT HERE!?`);
     }
 
-    invite("Pi'erre")
+    invite("Pi'erre");
 ```
 
 ```python
@@ -81,11 +81,12 @@ My Top 5
 <!-- Tables -->
 | Table | Timothy |
 |-------|---------|
-| Ha    | Ha      |
-| Ha    | Ha      |
-| Ha    | Ha      |
+| Ha    | ha      |
+| ha    | ha      |
+| ha    | ha      |
 
 <!-- Task Lists -->
+**GET RIPPED** Checklist:
 * [x] Dynamic stretches
 * [x] Work out
 * [x] Static stretches
